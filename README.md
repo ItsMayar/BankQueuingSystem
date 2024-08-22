@@ -29,32 +29,20 @@ The Bank Queuing System consists of queue (which has an ID), description, state,
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Logical View Diagram: <br/>
+<img src="https://i.imgur.com/ZXPQ6Vq.png" height="100%" width="100%" alt="FlowChart"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+HTML Output: <br/>
+<img src="https://i.imgur.com/Z9oAhDO.png" height="90%" width="90%" alt="FlowChart"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+XML output in Command Prompt: <br/>
+<img src="https://i.imgur.com/TNscBho.png" height="60%" width="60%" alt="FlowChart"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+XML output file: <br/>
+<img src="https://i.imgur.com/DjqujKP.png" height="60%" width="60%" alt="FlowChart"/>
 </p>
 
 <!--
