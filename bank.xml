@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding ="UTF-8"?>
+<!DOCTYPE bank SYSTEM "bank.dtd">
+<!-- Bank Queuing System -->
+
+<bank>
+<queue id = "2001">
+<description>Open Bank Account</description>
+<state>Melaka</state>
+<district>Ayer Keroh</district>
+<address>105, Jalan Tasik, Ayer Keroh, 75450 Melaka</address>
+<date>14.12.2022</date>
+<time>10.20am</time>
+<name>Alice Lim</name>
+<ic>000523081024</ic>
+<contact>0176355982</contact>
+<email href="alicelim20@gmail.com"/>
+</queue>
+<queue id = "2002">
+<description>Withdraw Money</description>
+<state>Melaka</state>
+<district>Ayer Keroh</district>
+<address>105, Jalan Tasik, Ayer Keroh, 75450 Melaka</address>
+<date>14.12.2022</date>
+<time>10.21am</time>
+<name>Brandon Chong</name>
+<ic>600504013829</ic>
+<contact>0108466724</contact>
+<email href="brandonchong@gmail.com"/>
+</queue>
+<queue id = "2003">
+<description>Deposit Money</description>
+<state>Melaka</state>
+<district>Ayer Keroh</district>
+<address>105, Jalan Tasik, Ayer Keroh, 75450 Melaka</address>
+<date>14.12.2022</date>
+<time>10.22am</time>
+<name>Carol Ng</name>
+<ic>990628048152</ic>
+<contact>0173899517</contact>
+<email href="ngCarol@yahoo.com"/>
+</queue>
+<queue id = "2004">
+<description>Borrow Loans</description>
+<state>Melaka</state>
+<district>Ayer Keroh</district>
+<address>105, Jalan Tasik, Ayer Keroh, 75450 Melaka</address>
+<date>14.12.2022</date>
+<time>10.23am</time>
+<name>Daniel Yap</name>
+<ic>730215078213</ic>
+<contact>0124655823</contact>
+<email href="danielyap123@hotmail.com"/>
+</queue>
+<queue id = "2005">
+<description>Check Balance</description>
+<state>Melaka</state>
+<district>Ayer Keroh</district>
+<address>105, Jalan Tasik, Ayer Keroh, 75450 Melaka</address>
+<date>14.12.2022</date>
+<time>10.24am</time>
+<name>Emily See</name>
+<ic>051119080144</ic>
+<contact>0108843972</contact>
+<email href="emily2000@gmail.com"/>
+</queue>
+<queue id = "2006">
+<description>Close Bank Account</description>
+<state>Melaka</state>
+<district>Ayer Keroh</district>
+<address>105, Jalan Tasik, Ayer Keroh, 75450 Melaka</address>
+<date>14.12.2022</date>
+<time>10.25am</time>
+<name>Simon Chin</name>
+<ic>861205149183</ic>
+<contact>0163228395</contact>
+<email href="simonChin3000@outlook.com"/>
+</queue>
+<queue id = "2007">
+<description>Fixed Deposit</description>
+<state>Melaka</state>
+<district>Ayer Keroh</district>
+<address>105, Jalan Tasik, Ayer Keroh, 75450 Melaka</address>
+<date>14.12.2022</date>
+<time>10.26am</time>
+<name>Grace Chua</name>
+<ic>031109120534</ic>
+<contact>0172243697</contact>
+<email href="grace88@gmail.com"/>
+</queue>
+<queue id = "2008">
+<description>Transfer Money</description>
+<state>Melaka</state>
+<district>Ayer Keroh</district>
+<address>105, Jalan Tasik, Ayer Keroh, 75450 Melaka</address>
+<date>14.12.2022</date>
+<time>10.27am</time>
+<name>Jennie Tan</name>
+<ic>090131144512</ic>
+<contact>0115243669</contact>
+<email href="jennietan@gmail.com"/>
+</queue>
+</bank>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bank>
+   <queue id="2001">
+      <description>Open Bank Account</description>
+      <state>Melaka</state>
+      <district>Ayer Keroh</district>
+      <address>105, Jalan Tasik, Ayer Keroh, 75450 Melaka</address>
+      <date>14.12.2022</date>
+      <time>10.20am</time>
+      <name>Alice Lim</name>
+      <ic>000523081024</ic>
+      <contact>0176355982</contact>
+      <email href="alicelim20@gmail.com"/>
+   </queue>
+   <queue id="2002">
+      <description>Withdraw Money</description>
+      <state>Melaka</state>
+      <district>Ayer Keroh</district>
+      <address>105, Jalan Tasik, Ayer Keroh, 75450 Melaka</address>
+      <date>14.12.2022</date>
+      <time>10.21am</time>
+      <name>Brandon Chong</name>
+      <ic>600504013829</ic>
+      <contact>0108466724</contact>
+      <email href="brandonchong@gmail.com"/>
+   </queue>
+</bank>

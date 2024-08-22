@@ -1,0 +1,14 @@
+<!ELEMENT bank (queue+)>
+<!ELEMENT queue (description, state, district, address, date, time, name, ic, contact, email)>
+<!ATTLIST queue id ID #REQUIRED>
+<!ELEMENT description (#PCDATA)>
+<!ELEMENT state (#PCDATA)>
+<!ELEMENT district (#PCDATA)>
+<!ELEMENT address (#PCDATA)>
+<!ELEMENT date (#PCDATA)>
+<!ELEMENT time (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT ic (#PCDATA)>
+<!ELEMENT contact (#PCDATA)>
+<!ELEMENT email (#PCDATA)>
+<!ATTLIST email href IDREF #REQUIRED>

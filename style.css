@@ -1,0 +1,47 @@
+body{
+	background-color: #87ceeb;
+}
+
+.maintitle{
+    text-align: center;
+    font-size: xxx-large;
+    font-weight: bolder;
+    color: #f8f8ff;
+    font-family: Ink free, bold;
+	border-bottom: 5px double black;
+}
+
+.title{
+    text-align: center;
+}
+.titlewlink{
+    color: black;
+    font-weight: bolder;
+    font-size: large;
+    font-style: oblique;
+}
+.datewlink:hover{
+    color: black;
+}
+.content{
+    background: rgba(255, 255, 255, 0.8);
+}
+.bank{
+    padding: 10px;
+    border-bottom: 7px solid black;
+}
+.info{
+    text-align: center;
+	font-family: Segoe Print;
+	color: black;
+	font-size: x-large;
+	
+}
+text{
+    font-weight: bolder;
+	font-size: 16.5px;
+}
+.content{
+    display: block;
+    width: 100%
+}
