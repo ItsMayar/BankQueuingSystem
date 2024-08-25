@@ -1,7 +1,5 @@
 <h1>The Bank Queuing System</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
-
 <h2>Description</h2>
 The Bank Queuing System features 11 elements: queue (including ID, description, state, district, address, date, time, name, identification number, contact number, and email). All elements are PCDATA, except for ID (type ID) and email (CDATA). The system’s design integrates various data types and attributes to streamline processing and maintain data consistency.<br />
 <br />
